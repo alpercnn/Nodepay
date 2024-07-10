@@ -15,12 +15,12 @@ npm
 
 ### Scripti Çalıştıralım
 ```
-wget https://raw.githubusercontent.com/ruesandora/Rivalz/main/oasis.sh
+wget https://raw.githubusercontent.com/alpercnn/Nodepay/main/nodepay.sh
 ```
 > izinleri verelim ve çalıştıralım.
 ```
-chmod +x oasis.sh
-./oasis.sh
+chmod +x nodepay.sh
+./nodepay.sh
 ```
 >screen oluşturalım:
 ```
@@ -44,7 +44,7 @@ Komut dosyası giriş yapacak, uzantı tokenini alacak ve bu token ile database.
 >Terminalde hala oasis dizininde olduğunuzdan emin olun.\
 >Oasis Terminal'i başlatmak için aşağıdaki komutu çalıştırın:\
 ```
-node oasis_terminal.js
+node nodepay_terminal.js
 ```
 Screendan CTRL A + D ile çıkalım.
 Artık hazırsınız! Oasis Terminal ile mutlu puan kazanmalar dilerim!
